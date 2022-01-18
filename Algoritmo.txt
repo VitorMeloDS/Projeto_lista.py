@@ -1,0 +1,43 @@
+***PROGRAMA CRIADO EM GRUPO PARA A MATÉRIA DE ALPG (ALGORITMOS E LÓGICA DE PROGRAMAÇÃO) MINISTRADA PELO PROFESSOR
+AUGUSTO MELO***
+***ALUNOS:
+ANDRÉ LUIZ
+JOSÉ HENRIQUE
+VITOR MELO***
+
+O que falta?
+-Criar comentários no código
+-Pesquisar valores dos itens da receita
+
+App lista de compras:
+
+Listar itens de compras de uma receita ou feira
+
+Leitura dos dados:
+-Criar um loop infinito com condição 'stop' para parar em pedido
+-Com o nome da lista
+-Com o produto
+-Com o preço do produto
+-Adicione cada variável em uma lista
+
+Processamento de dados:
+-Remover variável da lista atráves de um estrutura condicional
+-Usar funções 'pop' e 'append' para remover e adicionar respectivamente
+-Adicionar valores não removidos em outra lista
+-Criar um estrutura condicional para imprimir quantos itens faltaram ou se a lista fora concluída
+
+Saída:
+-Criar um função para imprimir valores e itens de forma automática
+
+Possibilidades:
+-Todas os itens conclídos
+Resultado = valor total da compra
+-Alguns ou todos os itens faltarem
+Resultado = valor total dos itens que faltaram
+
+Exemplo:
+RECEITA DE LASANHA DE CARNE MOIDA:
+-500 g de massa de lasanha R$ 6.89
+-500 g de carne moída R$ 30.20 (o kg)
+-500 g de presunto R$ 35.90 (o kg)
+-500 g de mussarela R$ 13.50 (o kg)
