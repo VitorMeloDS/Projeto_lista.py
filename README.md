@@ -1,5 +1,5 @@
-#Projeto em Python.
+# Projeto em Python.
 
-##Projeto feito para a disciplina de Algoritmos e Lógoca da Programação
+## Projeto feito para a disciplina de Algoritmos e Lógoca da Programação
 
-###Autores do projeto: Vitor melo; José Henrique; André Luiz.
+### Autores do projeto: Vitor melo; José Henrique; André Luiz.
